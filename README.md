@@ -18,7 +18,7 @@
 <summary>🟢 Click to reveal identity</summary>
 
 I am **Wakar Alvee**, a CSE student from Bangladesh 🇧🇩
-Exploring **Web Development + AI Systems**
+Continous adapting **Web Development + AI Systems**
 
 </details>
 
@@ -159,8 +159,8 @@ V2FrYXIgYWx2ZWUgaXMgZnV0dXJlIGJ1aWxkZXI=
 > connect --user wakar
 ```
 
-* GitHub: https://github.com/yourusername
-* Email: [your@email.com](mailto:your@email.com)
+* GitHub: https://github.com/WakarAlvee
+* Email: walvee10@gmail.com
 
 ---
 
