@@ -25,10 +25,14 @@
 ---
 ---
 
-## 🐍 SNAKE GAME (MY PROGRESS)
+## 🐍 CONTRIBUTION SNAKE GAME
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WakarAlvee/WakarAlvee/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <b>🔥 Watch the snake eat my green contribution blocks every time I code 🔥</b>
 </p>
 
 ---
