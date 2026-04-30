@@ -23,6 +23,15 @@
 📚 Competitive Programming  
 
 ---
+---
+
+## 🐍 SNAKE GAME (MY PROGRESS)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WakarAlvee/WakarAlvee/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 
 ## 🔥 TECH STACK
 
