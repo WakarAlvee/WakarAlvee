@@ -20,7 +20,7 @@
 ⚡ Building real-world projects (IoT, Games, Systems)  
 🤖 Exploring AI/ML & Research Writing  
 🎯 Goal: Freelance → Agency → Tech Entrepreneur  
-📚 Preparing for BCS + Competitive Programming  
+📚 Competitive Programming  
 
 ---
 
