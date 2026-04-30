@@ -81,11 +81,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
----
-
-### ⚡ ICON KEYWORDS (for headings / styling)
-⚡ 💻 🎮 🤖 🚀 🧠 🐍 🌐 ⚙️ 📡 🔥
-
 
 
 ---
