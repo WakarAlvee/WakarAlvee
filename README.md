@@ -51,7 +51,7 @@
 - Build Freelancing Career (Fiverr)  
 - Start Tech Agency in Future  
 - Learn AI/ML + Research Paper Writing  
-- Prepare for BCS + Competitive Programming  
+- Competitive Programming  
 
 ---
 
