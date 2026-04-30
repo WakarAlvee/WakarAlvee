@@ -46,6 +46,79 @@
 📡 IoT: Arduino UNO, NodeMCU (ESP8266), Sensors, Blynk  
 🎮 Graphics: OpenGL, Game Development Basics  
 
+<!-- TECH STACK SECTION -->
+<section id="tech-stack" class="tech-stack">
+  <div class="container">
+
+    <h2 class="section-title">Tech Stack</h2>
+    <p class="section-subtitle">Technologies I work with and continuously improve</p>
+
+    <div class="stack-grid">
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <span>HTML5</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <span>CSS3</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <span>JavaScript</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+        <span>PHP</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <span>C#</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+        <span>C++</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        <span>MySQL</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <span>Git</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        <span>GitHub</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <span>Node.js</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <span>React</span>
+      </div>
+
+      <div class="stack-item">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+        <span>MongoDB</span>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 ---
 
 ## 🎮 PROJECTS
