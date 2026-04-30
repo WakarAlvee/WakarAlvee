@@ -46,7 +46,7 @@
 📡 IoT: Arduino UNO, NodeMCU (ESP8266), Sensors, Blynk  
 🎮 Graphics: OpenGL, Game Development Basics  
 
-## 💻 STACK VIZUALIZATION 
+## 💻 STACK GLIMPS 
 
 ### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
