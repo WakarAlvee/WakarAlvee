@@ -3,7 +3,7 @@
 <div align="center">
 
 # ⚡ WAKAR ALVEE ⚡
-### I can solve basic to advance computer problems. Focus area : AI engneering 
+### I can solve basic to advance computer problems. Focus area : AI Engneering 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Code.+Build.+Break.+Improve.;Web+Developer+in+Progress;IoT+%7C+AI+%7C+Game+Dev+Explorer;Always+Learning+New+Tech" />
 
