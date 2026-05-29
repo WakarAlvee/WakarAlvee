@@ -16,10 +16,10 @@
 ## 🧠 ABOUT ME
 
 🎓 CSE Student @ AIUB, Bangladesh  
-💻 Passionate about Web Development & Software Engineering  
+💻 Passionate about Web Development | Software Engineering | AI Engineering | Problem solving  
 ⚡ Building real-world projects (IoT, Games, Systems)  
 🤖 Exploring AI/ML & Research Writing  
-🎯 Goal: Freelance → Agency → Tech Entrepreneur  
+🎯 Goal: Continuous evolve in tech  
 📚 Competitive Programming  
 
 ---
@@ -90,7 +90,7 @@
 ⚡ Saloon Management System (C# Desktop App)  
 🎰 Jackpot Game (Digital Logic Circuit Project)  
 📡 IoT Energy Monitoring System (Arduino + Sensors + WiFi)  
-🎮 Shape Catching Game (OpenGL Graphics Project)  
+🎮 Shape Catching Game (OpenGL Graphics Project) 
 🌐 Web Projects: TicTacToe, CRUD System, Form Handling  
 
 ---
@@ -98,8 +98,7 @@
 ## 🚀 CURRENT GOALS
 
 - Master Full Stack Web Development  
-- Build Freelancing Career (Fiverr)  
-- Start Tech Agency in Future  
+- Freelancing Career    
 - Learn AI/ML + Research Paper Writing  
 - Competitive Programming  
 
