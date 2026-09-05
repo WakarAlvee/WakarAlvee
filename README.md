@@ -15,12 +15,11 @@
 
 ## 🧠 ABOUT ME
 
-🎓 CSE Student @ AIUB, Bangladesh  
-💻 Passionate about Web Development | Software Engineering | AI Engineering | Problem solving  
+🎓 CSE Student at AIUB, Bangladesh  
+💻 Continuous leveling up: Web Development | Software Engineering | AI Engineering | Problem solving  
 ⚡ Building real-world projects (IoT, Games, Systems)  
 🤖 Exploring AI/ML & Research Writing  
-🎯 Goal: Continuous evolve in tech  
-📚 Competitive Programming  
+🎯 Goal: Evolve myself with technologies.   
 
 ---
 ---
@@ -114,7 +113,7 @@
 
 ## ⚔️ MOTTO
 
-> "I don’t just write code — I build systems, break limits, and level up every day."
+> "Build Break Read Repeat"
 
 ---
 
